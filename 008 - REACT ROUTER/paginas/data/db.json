@@ -1,0 +1,18 @@
+{
+        "products": [
+          {
+            "id": "3",
+            "name": "Boné aba reta",
+            "price": 29.9
+          },
+          {
+            "id": "1354",
+            "name": "Short de Oncinha",
+            "price": 60.5
+          },
+          {
+            "id": "bf60",
+            "name": "Calcinha",
+            "price": 20
+          }
+]}

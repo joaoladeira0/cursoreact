@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.app-title {
+  color: pink;
+  font-size: 50px;
+}
+
+.car-container {
+  display: flex;
+  justify-content: center;
+}

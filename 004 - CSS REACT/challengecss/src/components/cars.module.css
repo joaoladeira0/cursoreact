@@ -1,0 +1,16 @@
+.marca {
+    color: lightblue;
+    background-color: black;
+}
+
+.carro {
+    color: blue;
+    background-color: lightblue;
+}
+
+.card {
+    padding: 10px 50px;
+    border-radius: 10px;
+    border: 1px solid orange;
+    margin: 10px;
+}

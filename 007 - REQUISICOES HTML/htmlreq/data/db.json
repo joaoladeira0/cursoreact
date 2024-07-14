@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "1354",
+      "name": "Short de Oncinha",
+      "price": "60.5"
+    },
+    {
+      "id": "bf60",
+      "name": "Calcinha",
+      "price": "20"
+    },
+    {
+      "id": "ac9e",
+      "name": "Saia",
+      "price": "89"
+    },
+    {
+      "id": "47a8",
+      "name": "Saia longa",
+      "price": "150"
+    },
+    {
+      "id": "1a1c",
+      "name": "Saia longa",
+      "price": "150"
+    },
+    {
+      "id": "d46f",
+      "name": "Blusa Tomara que Caia",
+      "price": "180"
+    },
+    {
+      "id": "7e44",
+      "name": "a",
+      "price": ""
+    },
+    {
+      "id": "cfeb",
+      "name": "b",
+      "price": "1"
+    },
+    {
+      "id": "a518",
+      "name": "Koriteira",
+      "price": "5"
+    },
+    {
+      "id": "cb0b",
+      "name": "cleiton",
+      "price": "5841"
+    },
+    {
+      "id": "73ce",
+      "name": "cleiton",
+      "price": "58"
+    },
+    {
+      "id": "dfec",
+      "name": "cleiton",
+      "price": "58"
+    },
+    {
+      "id": "145d",
+      "name": "cleiton",
+      "price": "58"
+    }
+  ]
+}
